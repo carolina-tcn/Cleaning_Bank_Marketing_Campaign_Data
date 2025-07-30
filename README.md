@@ -1,7 +1,5 @@
 # Cleaning Bank Marketing Campaign Data
 
-Data cleaning and preprocessing for bank marketing campaign analysis.
-
 ---
 
 ## Project Instructions
